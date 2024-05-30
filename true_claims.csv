@@ -1,0 +1,26 @@
+claim_id,claim,theme,url
+C1,covid-19 is a disease caused by a virus named SARS-CoV-2.,Covid-19,"https://www.cdc.gov/coronavirus/2019-ncov/your-health/about-covid-19.html#:~:text=It%20can%20be%20very%20contagious,your%20lungs%20and%20respiratory%20system."
+C2,"covid-19 virus was discovered in Wuhan, China, in 2019 and spread rapidly around the globe.",Covid-19,https://www.webmd.com/covid/coronavirus-history
+C3,"COVID-19 most often causes respiratory symptoms that can feel much like a cold, the flu, or pneumonia.",Covid-19,"https://www.cdc.gov/coronavirus/2019-ncov/your-health/about-covid-19.html#:~:text=It%20can%20be%20very%20contagious,your%20lungs%20and%20respiratory%20system."
+C4,"Nearly all the ingredients in COVID-19 vaccines are also ingredients in many foods – fats, sugars, and salts.",Vaccine,https://www.cdc.gov/coronavirus/2019-ncov/vaccines/facts.html
+C5,COVID-19 vaccines do not change or interact with your DNA in any way.,Vaccine,https://www.cdc.gov/coronavirus/2019-ncov/vaccines/facts.html
+C6,AstraZeneca is a covid-19 vaccine developed by Oxford University and British-Swedish company AstraZeneca,Vaccine,https://en.wikipedia.org/wiki/Oxford%E2%80%93AstraZeneca_COVID-19_vaccine#cite_note-NCT04400838-33
+C7,Six out of 10 unintended pregnancies end in induced abortion.,Abortion,https://www.who.int/news-room/fact-sheets/detail/abortion
+C8,Abortion is a common health intervention. It is very safe when carried out using a method recommended by WHO.,Abortion,https://www.who.int/news-room/fact-sheets/detail/abortion
+C9,Abortion is not linked to breast cancer.,Abortion,https://www.betterhealth.vic.gov.au/health/healthyliving/myths-and-facts-about-abortion
+C10,Acupuncture can be very helpful for chronic pain.,AM,https://www.cancer.gov/about-cancer/treatment/cam
+C11,Alternative medicine has not been shown to be effective for cancer treatment.,AM,https://www.cancer.org/cancer/managing-cancer/treatment-types/alternative-medicine/what-is-alternative-medicine.html
+C12,Eating carrots will not imporve vision.,AM,https://www.snopes.com/fact-check/does-eating-carrots-improve-vision/
+C13,"EU regulations become part of national law as soon as they're passed, without requiring any further action by member states.",Laws,https://commission.europa.eu/law/law-making-process/types-eu-law_en
+C14,"On 26 September 2017, King Salman issued an order to allow women to drive.",Laws,https://en.wikipedia.org/wiki/Women_to_drive_movement
+C15,All German residents over age 16 must carry valid identification like an ID card or passport.,Laws,https://www.uni-passau.de/en/housing/german-laws-everyday-life
+C16,Ursula von der Leyen is the 13th president of the European Commission since 2019,EU Figures,https://en.wikipedia.org/wiki/Ursula_von_der_Leyen
+C17,President Zelenskyy said There Would Be No Elections in Ukraine Until War Ends,EU Figures,https://www.snopes.com/fact-check/zelenskyy-say-no-elections-until-war-ends/
+C18,Emmanuel Macron's Wife was One of His Former High School Teachers,EU Figures,https://www.snopes.com/fact-check/emmanuel-brigitte-macron-wife-teacher/
+C19,Most immigrants in the U.S. hold lawful status.,Immigration,https://www.adl.org/resources/fact-sheet/eight-facts-about-immigrants-and-immigration-english-and-espanol
+C20,"Statistically, more people were deported from the U.S. during the administration of President Barack Obama than during that of any other president.
+",Immigration,https://www.snopes.com/fact-check/obama-deported-more-people/
+C21,Muslims were not banned from immigrating to the United States in 1952 under the provisions of the Immigration and Nationality Act.,Immigration,https://www.snopes.com/fact-check/islam-banned-u-s-1952/
+C22,Donald J. Trump is the 45th President of the United States.,Trump,https://trumpwhitehouse.archives.gov/people/donald-j-trump/
+C23,Donald Trump Claim Global Warming Is a Hoax.,Trump,https://www.snopes.com/fact-check/donald-trump-global-warming-hoax/
+C24,President Donald Trump became the first ex-U.S. President indicted in a criminal investigation,Trump,https://www.snopes.com/fact-check/donald-trump-indicted/
