@@ -4,7 +4,7 @@ This repo contains the latest results from the experiments conducted to generate
 
 #### Notebook content
 
-The code can be found in `disinformation_generation.ipynb`. The notebook contains three sections:
+The code can be found in `llm_generation_pipelines.ipynb`. The notebook contains three sections:
 
 - **Data preparation**: where the disinformation claims collected from fact-checking websites are added.
 - **Disinformation generation**: code responsible for generating disinformation using various jailbreaking techniques across three different models namely GPT-3.5 Turbo, Vicuna, and WizardLM.
